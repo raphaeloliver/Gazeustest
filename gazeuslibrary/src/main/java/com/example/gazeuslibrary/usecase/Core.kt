@@ -1,10 +1,10 @@
-package com.example.gazeuslibrary
+package com.example.gazeuslibrary.usecase
 
 import androidx.annotation.Keep
+import com.example.gazeuslibrary.remote.CustomKoin
+import com.example.gazeuslibrary.Init
 import com.example.gazeuslibrary.api.ReposTag
 import com.example.gazeuslibrary.api.UserRepos
-import com.example.gazeuslibrary.usecase.ReposTagUseCase
-import com.example.gazeuslibrary.usecase.UseReposUseCase
 import org.koin.android.ext.android.inject
 
 @Keep

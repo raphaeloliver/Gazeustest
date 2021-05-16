@@ -1,4 +1,4 @@
-package com.example.gazeuslibrary
+package com.example.gazeuslibrary.remote
 
 import org.koin.core.KoinApplication
 
