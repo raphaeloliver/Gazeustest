@@ -21,7 +21,7 @@ class UseReposUseCase(private val userRepository: UserReposRepository,
 
         coroutinesScope.launch {
             when(val response = safeRequest {
-                userRepository.getRepositoryUser(nameUse)
+                userRepository.getUserRepository(nameUse)
 
             }) {
                 is SafetyResponse.Success -> callback(true, response.value)
