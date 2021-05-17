@@ -1,6 +1,6 @@
 package com.example.gazeuslibrary.usecase
 
-import com.example.gazeuslibrary.api.UserRepos
+import com.example.gazeuslibrary.models.UserRepos
 import com.example.gazeuslibrary.remote.SafetyResponse
 import com.example.gazeuslibrary.remote.safeRequest
 import com.example.gazeuslibrary.repository.UserReposRepository

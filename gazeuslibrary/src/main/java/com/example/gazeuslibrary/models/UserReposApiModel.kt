@@ -1,4 +1,4 @@
-package com.example.gazeuslibrary.api
+package com.example.gazeuslibrary.models
 
 import android.os.Parcelable
 import androidx.annotation.Keep

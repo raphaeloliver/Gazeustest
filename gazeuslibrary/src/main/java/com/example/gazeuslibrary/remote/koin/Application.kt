@@ -2,7 +2,7 @@ package com.example.gazeuslibrary
 
 import com.example.gazeuslibrary.di.DataModule
 import com.example.gazeuslibrary.di.DomainModule
-import com.example.gazeuslibrary.remote.KoinInstance
+import com.example.gazeuslibrary.remote.koin.KoinInstance
 import org.koin.android.ext.koin.androidContext
 import org.koin.dsl.koinApplication
 

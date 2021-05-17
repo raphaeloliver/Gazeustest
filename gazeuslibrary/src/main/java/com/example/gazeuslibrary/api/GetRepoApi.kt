@@ -1,5 +1,6 @@
 package com.example.gazeuslibrary.api
 
+import com.example.gazeuslibrary.models.UserRepos
 import retrofit2.http.GET
 import retrofit2.http.Path
 
